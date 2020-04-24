@@ -1,0 +1,19 @@
+[
+  {
+    "id": "5ba43336-a5e5-4b94-b4f7-b31b409e554f",
+    "description": "Whoopie pies",
+    "image:": "https://example.com/example.png",
+    "reservedBy": 2
+  },
+  {
+    "id": "b7f42339-f68c-452a-866d-953343a0196f",
+    "description": "Cookies",
+    "image:": "https://example.com/example.png",
+    "reservedBy": 1
+  },
+  {
+    "id": "d4d95518-c1af-4aca-8c32-673253d57a9c",
+    "description": "Cake",
+    "image:": "https://example.com/example.png"
+  }
+]
